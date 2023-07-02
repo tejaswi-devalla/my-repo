@@ -1,0 +1,12 @@
+#barContent {
+  height: 100vh;
+  width: 100%;
+}
+.popup-content {
+  height: 180px;
+  width: 350px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
